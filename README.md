@@ -1,4 +1,4 @@
 # Functional-Programming
 
-###Disc Calc
+## Disc Calc
 Calculates the discriminant of a cubic function
